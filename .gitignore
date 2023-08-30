@@ -1,0 +1,4 @@
+transactionDump/
+transactionDumpError/
+credentials.js
+node_modules/
